@@ -14,3 +14,8 @@ response = requests.get('https://www.googleapis.com/pagespeedonline/v5/runPagesp
 
 json_string = response.json()
 print(json_string)
+
+
+
+with open('data.json', 'w', encoding='utf-8') as f:
+    json.dump(json_string, f, ensure_ascii=False, indent=4)

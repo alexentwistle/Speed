@@ -1,0 +1,2059 @@
+{
+    "captchaResult": "CAPTCHA_NOT_NEEDED",
+    "kind": "pagespeedonline#result",
+    "id": "https://davinciclinic.co.uk/",
+    "loadingExperience": {
+        "initial_url": "https://davinciclinic.co.uk/"
+    },
+    "lighthouseResult": {
+        "requestedUrl": "https://davinciclinic.co.uk/",
+        "finalUrl": "https://davinciclinic.co.uk/",
+        "lighthouseVersion": "5.6.0",
+        "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.74 Safari/537.36",
+        "fetchTime": "2020-01-15T16:38:41.204Z",
+        "environment": {
+            "networkUserAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3694.0 Safari/537.36 Chrome-Lighthouse",
+            "hostUserAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/78.0.3904.74 Safari/537.36",
+            "benchmarkIndex": 566
+        },
+        "runWarnings": [],
+        "configSettings": {
+            "emulatedFormFactor": "desktop",
+            "locale": "en-US",
+            "onlyCategories": [
+                "performance"
+            ],
+            "channel": "lr"
+        },
+        "audits": {
+            "interactive": {
+                "id": "interactive",
+                "title": "Time to Interactive",
+                "description": "Time to interactive is the amount of time it takes for the page to become fully interactive. [Learn more](https://web.dev/interactive).",
+                "score": 0.99,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "1.4 s",
+                "numericValue": 1434
+            },
+            "screenshot-thumbnails": {
+                "id": "screenshot-thumbnails",
+                "title": "Screenshot Thumbnails",
+                "description": "This is what the load of your site looked like.",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "details": {
+                    "scale": 3046,
+                    "items": [
+                        {
+                            "timing": 305,
+                            "timestamp": 4008498878323,
+                            "data": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRQBAwQEBQQFCQUFCRQNCw0UFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFP/AABEIAFMAeAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP1ToAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//Z"
+                        },
+                        {
+                            "timestamp": 4008499182923,
+                            "data": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRQBAwQEBQQFCQUFCRQNCw0UFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFP/AABEIAFMAeAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP1ToAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//Z",
+                            "timing": 609
+                        },
+                        {
+                            "timing": 914,
+                            "timestamp": 4008499487523,
+                            "data": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRQBAwQEBQQFCQUFCRQNCw0UFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFP/AABEIAFMAeAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP1ToAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//Z"
+                        },
+                        {
+                            "timestamp": 4008499792123,
+                            "data": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRQBAwQEBQQFCQUFCRQNCw0UFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFP/AABEIAFMAeAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP1ToAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//Z",
+                            "timing": 1218
+                        },
+                        {
+                            "timestamp": 4008500096723,
+                            "data": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRQBAwQEBQQFCQUFCRQNCw0UFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFP/AABEIAFMAeAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP1ToAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//Z",
+                            "timing": 1523
+                        },
+                        {
+                            "timestamp": 4008500401323,
+                            "data": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRQBAwQEBQQFCQUFCRQNCw0UFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFP/AABEIAFMAeAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP1ToAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//Z",
+                            "timing": 1828
+                        },
+                        {
+                            "timing": 2132,
+                            "timestamp": 4008500705923,
+                            "data": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAMCAgMCAgMDAwMEAwMEBQgFBQQEBQoHBwYIDAoMDAsKCwsNDhIQDQ4RDgsLEBYQERMUFRUVDA8XGBYUGBIUFRQBAwQEBQQFCQUFCRQNCw0UFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFBQUFP/AABEIAFMAeAMBEQACEQEDEQH/xAGiAAABBQEBAQEBAQAAAAAAAAAAAQIDBAUGBwgJCgsQAAIBAwMCBAMFBQQEAAABfQECAwAEEQUSITFBBhNRYQcicRQygZGhCCNCscEVUtHwJDNicoIJChYXGBkaJSYnKCkqNDU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6g4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2drh4uPk5ebn6Onq8fLz9PX29/j5+gEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoLEQACAQIEBAMEBwUEBAABAncAAQIDEQQFITEGEkFRB2FxEyIygQgUQpGhscEJIzNS8BVictEKFiQ04SXxFxgZGiYnKCkqNTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqCg4SFhoeIiYqSk5SVlpeYmZqio6Slpqeoqaqys7S1tre4ubrCw8TFxsfIycrS09TV1tfY2dri4+Tl5ufo6ery8/T19vf4+fr/2gAMAwEAAhEDEQA/AP1ToAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgAoAKACgD//Z"
+                        },
+                        {
+                            "timing": 2437,
+                            "timestamp": 4008501010523,
+                            "data": "data:image/jpeg;base64,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"
+                        },
+                        {
+                            "timing": 2741,
+                            "timestamp": 4008501315123,
+                            "data": "data:image/jpeg;base64,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"
+                        },
+                        {
+                            "timing": 3046,
+                            "timestamp": 4008501619723,
+                            "data": "data:image/jpeg;base64,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"
+                        }
+                    ],
+                    "type": "filmstrip"
+                }
+            },
+            "third-party-summary": {
+                "id": "third-party-summary",
+                "title": "Minimize third-party usage",
+                "description": "Third-party code can significantly impact load performance. Limit the number of redundant third-party providers and try to load third-party code after your page has primarily finished loading. [Learn more](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript/).",
+                "score": 1,
+                "scoreDisplayMode": "binary",
+                "displayValue": "Third-party code blocked the main thread for 0 ms",
+                "details": {
+                    "headings": [
+                        {
+                            "key": "entity",
+                            "itemType": "link",
+                            "text": "Third-Party"
+                        },
+                        {
+                            "key": "transferSize",
+                            "itemType": "bytes",
+                            "text": "Size",
+                            "granularity": 1
+                        },
+                        {
+                            "key": "blockingTime",
+                            "itemType": "ms",
+                            "text": "Main-Thread Blocking Time",
+                            "granularity": 1
+                        }
+                    ],
+                    "type": "table",
+                    "items": [
+                        {
+                            "entity": {
+                                "text": "Google Analytics",
+                                "type": "link",
+                                "url": "https://www.google.com/analytics/analytics/"
+                            },
+                            "mainThreadTime": 34.216,
+                            "transferSize": 18948,
+                            "blockingTime": 0
+                        },
+                        {
+                            "blockingTime": 0,
+                            "entity": {
+                                "type": "link",
+                                "text": "Cookiebot",
+                                "url": "https://www.cookiebot.com/"
+                            },
+                            "mainThreadTime": 11.539999999999997,
+                            "transferSize": 15105
+                        },
+                        {
+                            "blockingTime": 0,
+                            "entity": {
+                                "type": "link",
+                                "text": "Tawk.to",
+                                "url": "https://www.tawk.to/"
+                            },
+                            "mainThreadTime": 0,
+                            "transferSize": 0
+                        }
+                    ],
+                    "summary": {
+                        "wastedMs": 0,
+                        "wastedBytes": 34053
+                    }
+                }
+            },
+            "network-rtt": {
+                "id": "network-rtt",
+                "title": "Network Round Trip Times",
+                "description": "Network round trip times (RTT) have a large impact on performance. If the RTT to an origin is high, it's an indication that servers closer to the user could improve performance. [Learn more](https://hpbn.co/primer-on-latency-and-bandwidth/).",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "displayValue": "0 ms",
+                "details": {
+                    "headings": [],
+                    "items": [],
+                    "type": "table"
+                },
+                "numericValue": 0
+            },
+            "main-thread-tasks": {
+                "id": "main-thread-tasks",
+                "title": "Tasks",
+                "description": "Lists the toplevel main thread tasks that executed during page load.",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "details": {
+                    "headings": [
+                        {
+                            "text": "Start Time",
+                            "granularity": 1,
+                            "key": "startTime",
+                            "itemType": "ms"
+                        },
+                        {
+                            "text": "End Time",
+                            "granularity": 1,
+                            "key": "duration",
+                            "itemType": "ms"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "duration": 8.541,
+                            "startTime": 1521.263
+                        },
+                        {
+                            "startTime": 1533.324,
+                            "duration": 42.464
+                        },
+                        {
+                            "startTime": 1591.181,
+                            "duration": 34.587
+                        },
+                        {
+                            "startTime": 1625.841,
+                            "duration": 9.575
+                        },
+                        {
+                            "startTime": 1995.434,
+                            "duration": 5.878
+                        },
+                        {
+                            "startTime": 2001.356,
+                            "duration": 29.373
+                        },
+                        {
+                            "duration": 30.069,
+                            "startTime": 2044.029
+                        },
+                        {
+                            "startTime": 2074.307,
+                            "duration": 109.023
+                        },
+                        {
+                            "duration": 6.359,
+                            "startTime": 2183.382
+                        },
+                        {
+                            "startTime": 2204.644,
+                            "duration": 48.37
+                        },
+                        {
+                            "startTime": 2253.251,
+                            "duration": 5.793
+                        },
+                        {
+                            "duration": 43.621,
+                            "startTime": 2260.926
+                        },
+                        {
+                            "startTime": 2421.498,
+                            "duration": 296.792
+                        },
+                        {
+                            "startTime": 2718.318,
+                            "duration": 8.163
+                        },
+                        {
+                            "startTime": 2735.278,
+                            "duration": 7.304
+                        },
+                        {
+                            "startTime": 2742.622,
+                            "duration": 5.74
+                        },
+                        {
+                            "startTime": 2750.559,
+                            "duration": 67.897
+                        },
+                        {
+                            "duration": 23.714,
+                            "startTime": 2820.873
+                        },
+                        {
+                            "duration": 8.138,
+                            "startTime": 2895.617
+                        },
+                        {
+                            "duration": 68.245,
+                            "startTime": 2909.919
+                        },
+                        {
+                            "startTime": 4078.772,
+                            "duration": 8.008
+                        }
+                    ],
+                    "type": "table"
+                },
+                "numericValue": 21
+            },
+            "font-display": {
+                "id": "font-display",
+                "title": "Ensure text remains visible during webfont load",
+                "description": "Leverage the font-display CSS feature to ensure text is user-visible while webfonts are loading. [Learn more](https://web.dev/font-display).",
+                "score": 0,
+                "scoreDisplayMode": "binary",
+                "details": {
+                    "headings": [
+                        {
+                            "text": "URL",
+                            "itemType": "url",
+                            "key": "url"
+                        },
+                        {
+                            "key": "wastedMs",
+                            "itemType": "ms",
+                            "text": "Potential Savings"
+                        }
+                    ],
+                    "type": "table",
+                    "items": [
+                        {
+                            "wastedMs": 779.1610001586378,
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2"
+                        },
+                        {
+                            "wastedMs": 346.66799986734986,
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.5.0"
+                        },
+                        {
+                            "wastedMs": 346.18600038811564,
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2"
+                        }
+                    ]
+                },
+                "warnings": []
+            },
+            "total-blocking-time": {
+                "id": "total-blocking-time",
+                "title": "Total Blocking Time",
+                "description": "Sum of all time periods between FCP and Time to Interactive, when task length exceeded 50ms, expressed in milliseconds.",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "50 ms",
+                "numericValue": 49
+            },
+            "estimated-input-latency": {
+                "id": "estimated-input-latency",
+                "title": "Estimated Input Latency",
+                "description": "Estimated Input Latency is an estimate of how long your app takes to respond to user input, in milliseconds, during the busiest 5s window of page load. If your latency is higher than 50 ms, users may perceive your app as laggy. [Learn more](https://web.dev/estimated-input-latency).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "10 ms",
+                "numericValue": 12.8
+            },
+            "uses-rel-preconnect": {
+                "id": "uses-rel-preconnect",
+                "title": "Preconnect to required origins",
+                "description": "Consider adding `preconnect` or `dns-prefetch` resource hints to establish early connections to important third-party origins. [Learn more](https://web.dev/uses-rel-preconnect).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "details": {
+                    "overallSavingsMs": 0,
+                    "headings": [],
+                    "type": "opportunity",
+                    "items": []
+                },
+                "warnings": [],
+                "numericValue": 0
+            },
+            "unminified-css": {
+                "id": "unminified-css",
+                "title": "Minify CSS",
+                "description": "Minifying CSS files can reduce network payload sizes. [Learn more](https://web.dev/unminified-css).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "details": {
+                    "overallSavingsMs": 0,
+                    "headings": [],
+                    "items": [],
+                    "type": "opportunity",
+                    "overallSavingsBytes": 0
+                },
+                "numericValue": 0
+            },
+            "bootup-time": {
+                "id": "bootup-time",
+                "title": "JavaScript execution time",
+                "description": "Consider reducing the time spent parsing, compiling, and executing JS. You may find delivering smaller JS payloads helps with this. [Learn more](https://web.dev/bootup-time).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "0.3 s",
+                "details": {
+                    "summary": {
+                        "wastedMs": 342.578999999999
+                    },
+                    "headings": [
+                        {
+                            "text": "URL",
+                            "key": "url",
+                            "itemType": "url"
+                        },
+                        {
+                            "key": "total",
+                            "itemType": "ms",
+                            "text": "Total CPU Time",
+                            "granularity": 1
+                        },
+                        {
+                            "key": "scripting",
+                            "itemType": "ms",
+                            "text": "Script Evaluation",
+                            "granularity": 1
+                        },
+                        {
+                            "itemType": "ms",
+                            "key": "scriptParseCompile",
+                            "text": "Script Parse",
+                            "granularity": 1
+                        }
+                    ],
+                    "type": "table",
+                    "items": [
+                        {
+                            "url": "Other",
+                            "total": 520.1660000000002,
+                            "scripting": 12.418999999999992,
+                            "scriptParseCompile": 1.226
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+                            "total": 253.72699999999895,
+                            "scripting": 212.27899999999894,
+                            "scriptParseCompile": 1.8569999999999998
+                        },
+                        {
+                            "total": 75.99400000000003,
+                            "scripting": 59.24700000000002,
+                            "scriptParseCompile": 10.707,
+                            "url": "https://davinciclinic.co.uk/wp-content/cache/autoptimize/js/autoptimize_7c23bd7f5f9548a23ad29b8307590c78.js"
+                        },
+                        {
+                            "total": 73.09800000000001,
+                            "scripting": 41.43900000000001,
+                            "scriptParseCompile": 3.4049999999999985,
+                            "url": "https://davinciclinic.co.uk/"
+                        }
+                    ]
+                },
+                "numericValue": 342.578999999999
+            },
+            "network-server-latency": {
+                "id": "network-server-latency",
+                "title": "Server Backend Latencies",
+                "description": "Server latencies can impact web performance. If the server latency of an origin is high, it's an indication the server is overloaded or has poor backend performance. [Learn more](https://hpbn.co/primer-on-web-performance/#analyzing-the-resource-waterfall).",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "displayValue": "0 ms",
+                "details": {
+                    "headings": [],
+                    "items": [],
+                    "type": "table"
+                },
+                "numericValue": 0
+            },
+            "offscreen-images": {
+                "id": "offscreen-images",
+                "title": "Defer offscreen images",
+                "description": "Consider lazy-loading offscreen and hidden images after all critical resources have finished loading to lower time to interactive. [Learn more](https://web.dev/offscreen-images).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "details": {
+                    "overallSavingsMs": 0,
+                    "headings": [],
+                    "items": [],
+                    "type": "opportunity",
+                    "overallSavingsBytes": 0
+                },
+                "warnings": [],
+                "numericValue": 0
+            },
+            "uses-responsive-images": {
+                "id": "uses-responsive-images",
+                "title": "Properly size images",
+                "description": "Serve images that are appropriately-sized to save cellular data and improve load time. [Learn more](https://web.dev/uses-responsive-images).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "details": {
+                    "overallSavingsMs": 0,
+                    "headings": [],
+                    "type": "opportunity",
+                    "items": [],
+                    "overallSavingsBytes": 0
+                },
+                "warnings": [],
+                "numericValue": 0
+            },
+            "speed-index": {
+                "id": "speed-index",
+                "title": "Speed Index",
+                "description": "Speed Index shows how quickly the contents of a page are visibly populated. [Learn more](https://web.dev/speed-index).",
+                "score": 0.63,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "2.0 s",
+                "numericValue": 1981.2982506244884
+            },
+            "unused-css-rules": {
+                "id": "unused-css-rules",
+                "title": "Remove unused CSS",
+                "description": "Remove dead rules from stylesheets and defer the loading of CSS not used for above-the-fold content to reduce unnecessary bytes consumed by network activity. [Learn more](https://web.dev/unused-css-rules).",
+                "score": 0.8,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "Potential savings of 86 KB",
+                "details": {
+                    "type": "opportunity",
+                    "items": [
+                        {
+                            "totalBytes": 92531,
+                            "wastedBytes": 87849,
+                            "wastedPercent": 94.93986769438145,
+                            "url": "https://davinciclinic.co.uk/wp-content/cache/autoptimize/css/autoptimize_33d3d0b890a26744eca054140c1bccc5.css"
+                        }
+                    ],
+                    "overallSavingsBytes": 87849,
+                    "overallSavingsMs": 240,
+                    "headings": [
+                        {
+                            "label": "URL",
+                            "key": "url",
+                            "valueType": "url"
+                        },
+                        {
+                            "key": "totalBytes",
+                            "valueType": "bytes",
+                            "label": "Size"
+                        },
+                        {
+                            "valueType": "bytes",
+                            "label": "Potential Savings",
+                            "key": "wastedBytes"
+                        }
+                    ]
+                },
+                "numericValue": 240
+            },
+            "first-cpu-idle": {
+                "id": "first-cpu-idle",
+                "title": "First CPU Idle",
+                "description": "First CPU Idle marks the first time at which the page's main thread is quiet enough to handle input.  [Learn more](https://web.dev/first-cpu-idle).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "1.3 s",
+                "numericValue": 1288
+            },
+            "total-byte-weight": {
+                "id": "total-byte-weight",
+                "title": "Avoids enormous network payloads",
+                "description": "Large network payloads cost users real money and are highly correlated with long load times. [Learn more](https://web.dev/total-byte-weight).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "Total size was 1,021 KB",
+                "details": {
+                    "headings": [
+                        {
+                            "key": "url",
+                            "itemType": "url",
+                            "text": "URL"
+                        },
+                        {
+                            "key": "totalBytes",
+                            "itemType": "bytes",
+                            "text": "Size"
+                        }
+                    ],
+                    "type": "table",
+                    "items": [
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2018/07/dental-screening.jpg",
+                            "totalBytes": 131815
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/cache/autoptimize/js/autoptimize_7c23bd7f5f9548a23ad29b8307590c78.js",
+                            "totalBytes": 129492
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2019/04/homepage.jpg",
+                            "totalBytes": 100320
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/cache/autoptimize/css/autoptimize_33d3d0b890a26744eca054140c1bccc5.css",
+                            "totalBytes": 92531
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2019/05/dental-implants-london.jpg",
+                            "totalBytes": 91716
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+                            "totalBytes": 75733
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+                            "totalBytes": 74801
+                        },
+                        {
+                            "totalBytes": 73009,
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.5.0"
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2019/04/about-us.jpg",
+                            "totalBytes": 61112
+                        },
+                        {
+                            "totalBytes": 34369,
+                            "url": "https://davinciclinic.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"
+                        }
+                    ]
+                },
+                "numericValue": 1045482
+            },
+            "mainthread-work-breakdown": {
+                "id": "mainthread-work-breakdown",
+                "title": "Minimizes main-thread work",
+                "description": "Consider reducing the time spent parsing, compiling and executing JS. You may find delivering smaller JS payloads helps with this. [Learn more](https://web.dev/mainthread-work-breakdown)",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "1.0 s",
+                "details": {
+                    "headings": [
+                        {
+                            "key": "groupLabel",
+                            "itemType": "text",
+                            "text": "Category"
+                        },
+                        {
+                            "key": "duration",
+                            "itemType": "ms",
+                            "text": "Time Spent",
+                            "granularity": 1
+                        }
+                    ],
+                    "items": [
+                        {
+                            "group": "scriptEvaluation",
+                            "duration": 387.54899999999816,
+                            "groupLabel": "Script Evaluation"
+                        },
+                        {
+                            "group": "styleLayout",
+                            "duration": 341.53299999999996,
+                            "groupLabel": "Style & Layout"
+                        },
+                        {
+                            "group": "other",
+                            "duration": 101.76400000000034,
+                            "groupLabel": "Other"
+                        },
+                        {
+                            "group": "paintCompositeRender",
+                            "duration": 96.18199999999989,
+                            "groupLabel": "Rendering"
+                        },
+                        {
+                            "group": "parseHTML",
+                            "duration": 44.05400000000001,
+                            "groupLabel": "Parse HTML & CSS"
+                        },
+                        {
+                            "group": "scriptParseCompile",
+                            "duration": 22.254,
+                            "groupLabel": "Script Parsing & Compilation"
+                        },
+                        {
+                            "group": "garbageCollection",
+                            "duration": 0.503,
+                            "groupLabel": "Garbage Collection"
+                        }
+                    ],
+                    "type": "table"
+                },
+                "numericValue": 993.8389999999982
+            },
+            "first-contentful-paint": {
+                "id": "first-contentful-paint",
+                "title": "First Contentful Paint",
+                "description": "First Contentful Paint marks the time at which the first text or image is painted. [Learn more](https://web.dev/first-contentful-paint).",
+                "score": 0.95,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "0.8 s",
+                "numericValue": 817.5
+            },
+            "uses-webp-images": {
+                "id": "uses-webp-images",
+                "title": "Serve images in next-gen formats",
+                "description": "Image formats like JPEG 2000, JPEG XR, and WebP often provide better compression than PNG or JPEG, which means faster downloads and less data consumption. [Learn more](https://web.dev/uses-webp-images).",
+                "score": 0.97,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "Potential savings of 67 KB",
+                "details": {
+                    "type": "opportunity",
+                    "items": [
+                        {
+                            "fromProtocol": true,
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2019/05/dental-implants-london.jpg",
+                            "isCrossOrigin": false,
+                            "totalBytes": 91423,
+                            "wastedBytes": 58313
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2018/12/bg-img-09-free-img.jpg",
+                            "fromProtocol": true,
+                            "isCrossOrigin": false,
+                            "totalBytes": 24868,
+                            "wastedBytes": 10176
+                        }
+                    ],
+                    "overallSavingsBytes": 68489,
+                    "overallSavingsMs": 40,
+                    "headings": [
+                        {
+                            "key": "url",
+                            "valueType": "thumbnail"
+                        },
+                        {
+                            "label": "URL",
+                            "key": "url",
+                            "valueType": "url"
+                        },
+                        {
+                            "label": "Size",
+                            "key": "totalBytes",
+                            "valueType": "bytes"
+                        },
+                        {
+                            "key": "wastedBytes",
+                            "valueType": "bytes",
+                            "label": "Potential Savings"
+                        }
+                    ]
+                },
+                "warnings": [],
+                "numericValue": 40
+            },
+            "diagnostics": {
+                "id": "diagnostics",
+                "title": "Diagnostics",
+                "description": "Collection of useful page vitals.",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "details": {
+                    "type": "debugdata",
+                    "items": [
+                        {
+                            "numFonts": 9,
+                            "maxRtt": 0.002502307507668501,
+                            "numTasksOver500ms": 0,
+                            "maxServerLatency": null,
+                            "numScripts": 7,
+                            "numStylesheets": 3,
+                            "numTasksOver100ms": 2,
+                            "throughput": 93973965333.68225,
+                            "numTasksOver25ms": 10,
+                            "numTasksOver50ms": 4,
+                            "numRequests": 30,
+                            "totalTaskTime": 993.8389999999995,
+                            "mainDocumentTransferSize": 20880,
+                            "totalByteWeight": 1045482,
+                            "numTasks": 619,
+                            "numTasksOver10ms": 11,
+                            "rtt": 0.002502307507668501
+                        }
+                    ]
+                }
+            },
+            "critical-request-chains": {
+                "id": "critical-request-chains",
+                "title": "Avoid chaining critical requests",
+                "description": "The Critical Request Chains below show you what resources are loaded with a high priority. Consider reducing the length of chains, reducing the download size of resources, or deferring the download of unnecessary resources to improve page load. [Learn more](https://web.dev/critical-request-chains).",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "displayValue": "12 chains found",
+                "details": {
+                    "type": "criticalrequestchain",
+                    "chains": {
+                        "C40B333AD229606F8F6A24FED1B4D024": {
+                            "children": {
+                                "23.73": {
+                                    "request": {
+                                        "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.5.0",
+                                        "responseReceivedTime": 4008501.013242,
+                                        "endTime": 4008501.01325,
+                                        "startTime": 4008500.666582,
+                                        "transferSize": 73009
+                                    }
+                                },
+                                "23.12": {
+                                    "request": {
+                                        "url": "https://davinciclinic.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+                                        "responseReceivedTime": 4008500.581671,
+                                        "endTime": 4008500.581674,
+                                        "startTime": 4008500.121951,
+                                        "transferSize": 34369
+                                    }
+                                },
+                                "23.62": {
+                                    "request": {
+                                        "url": "https://davinciclinic.co.uk/wp-content/themes/astra/assets/fonts/astra.woff",
+                                        "responseReceivedTime": 4008500.7722839997,
+                                        "endTime": 4008500.772287,
+                                        "startTime": 4008500.655984,
+                                        "transferSize": 3593
+                                    }
+                                },
+                                "23.29": {
+                                    "request": {
+                                        "transferSize": 15504,
+                                        "url": "https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2",
+                                        "responseReceivedTime": 4008500.6672799997,
+                                        "endTime": 4008500.667283,
+                                        "startTime": 4008500.662861
+                                    }
+                                },
+                                "23.64": {
+                                    "request": {
+                                        "startTime": 4008500.668336,
+                                        "transferSize": 74801,
+                                        "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+                                        "responseReceivedTime": 4008501.014519,
+                                        "endTime": 4008501.014522
+                                    }
+                                },
+                                "23.5": {
+                                    "request": {
+                                        "url": "https://davinciclinic.co.uk/wp-content/cache/autoptimize/css/autoptimize_single_f31c3a86d13a0cd506af72612bcbd315.css?ver=2.2.2",
+                                        "responseReceivedTime": 4008500.19591,
+                                        "endTime": 4008500.195911,
+                                        "startTime": 4008500.079505,
+                                        "transferSize": 3343
+                                    }
+                                },
+                                "23.36": {
+                                    "request": {
+                                        "endTime": 4008500.661647,
+                                        "startTime": 4008500.657723,
+                                        "transferSize": 14951,
+                                        "url": "https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0b.woff2",
+                                        "responseReceivedTime": 4008500.6616439996
+                                    }
+                                },
+                                "23.50": {
+                                    "request": {
+                                        "endTime": 4008500.663495,
+                                        "startTime": 4008500.6599,
+                                        "transferSize": 15628,
+                                        "url": "https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2",
+                                        "responseReceivedTime": 4008500.663493
+                                    }
+                                },
+                                "23.4": {
+                                    "request": {
+                                        "transferSize": 1476,
+                                        "url": "https://fonts.googleapis.com/css?family=Open+Sans%3A400%2Ci%2C600%2C700%2C300&display=fallback&ver=2.2.0",
+                                        "responseReceivedTime": 4008500.089611,
+                                        "endTime": 4008500.089617,
+                                        "startTime": 4008500.079306
+                                    }
+                                },
+                                "23.43": {
+                                    "request": {
+                                        "url": "https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOUuhp.woff2",
+                                        "responseReceivedTime": 4008500.659164,
+                                        "endTime": 4008500.659167,
+                                        "startTime": 4008500.655744,
+                                        "transferSize": 15452
+                                    }
+                                },
+                                "23.22": {
+                                    "request": {
+                                        "endTime": 4008500.671027,
+                                        "startTime": 4008500.66623,
+                                        "transferSize": 14352,
+                                        "url": "https://fonts.gstatic.com/s/opensans/v17/mem6YaGs126MiZpBA-UFUK0Zdc0.woff2",
+                                        "responseReceivedTime": 4008500.6710240003
+                                    }
+                                },
+                                "23.70": {
+                                    "request": {
+                                        "endTime": 4008501.439603,
+                                        "startTime": 4008500.660442,
+                                        "transferSize": 75733,
+                                        "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+                                        "responseReceivedTime": 4008501.4395999997
+                                    }
+                                }
+                            },
+                            "request": {
+                                "transferSize": 20880,
+                                "url": "https://davinciclinic.co.uk/",
+                                "responseReceivedTime": 4008500.063032,
+                                "endTime": 4008500.063045,
+                                "startTime": 4008498.575044
+                            }
+                        }
+                    },
+                    "longestChain": {
+                        "transferSize": 75733,
+                        "duration": 2864.558999892324,
+                        "length": 2
+                    }
+                }
+            },
+            "dom-size": {
+                "id": "dom-size",
+                "title": "Avoid an excessive DOM size",
+                "description": "A large DOM will increase memory usage, cause longer [style calculations](https://developers.google.com/web/fundamentals/performance/rendering/reduce-the-scope-and-complexity-of-style-calculations), and produce costly [layout reflows](https://developers.google.com/speed/articles/reflow). [Learn more](https://web.dev/dom-size).",
+                "score": 0.74,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "1,069 elements",
+                "details": {
+                    "type": "table",
+                    "items": [
+                        {
+                            "statistic": "Total DOM Elements",
+                            "value": "1,069"
+                        },
+                        {
+                            "value": "30",
+                            "statistic": "Maximum DOM Depth",
+                            "element": {
+                                "type": "code",
+                                "value": "<i class=\"fa fa-comment\" aria-hidden=\"true\">"
+                            }
+                        },
+                        {
+                            "statistic": "Maximum Child Elements",
+                            "element": {
+                                "value": "<body itemtype=\"https://schema.org/WebPage\" itemscope=\"itemscope\" class=\"home page-template-default page page-id-6 wp-custom-logo language-en ast-desktop ast-page-builder-template ast-no-sidebar astra-2.2.0 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header ast-full-width-layout ast-inherit-site-logo-sticky ast-primary-sticky-enabled elementor-default elementor-page elementor-page-6 astra-addon-2.2.2\" data-elementor-device-mode=\"desktop\">",
+                                "type": "code"
+                            },
+                            "value": "16"
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "text": "Statistic",
+                            "itemType": "text",
+                            "key": "statistic"
+                        },
+                        {
+                            "key": "element",
+                            "itemType": "code",
+                            "text": "Element"
+                        },
+                        {
+                            "text": "Value",
+                            "key": "value",
+                            "itemType": "numeric"
+                        }
+                    ]
+                },
+                "numericValue": 1069
+            },
+            "uses-rel-preload": {
+                "id": "uses-rel-preload",
+                "title": "Preload key requests",
+                "description": "Consider using `<link rel=preload>` to prioritize fetching resources that are currently requested later in page load. [Learn more](https://web.dev/uses-rel-preload).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "details": {
+                    "overallSavingsMs": 0,
+                    "headings": [],
+                    "type": "opportunity",
+                    "items": []
+                },
+                "numericValue": 0
+            },
+            "performance-budget": {
+                "id": "performance-budget",
+                "title": "Performance budget",
+                "description": "Keep the quantity and size of network requests under the targets set by the provided performance budget. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/budgets).",
+                "score": null,
+                "scoreDisplayMode": "notApplicable"
+            },
+            "unminified-javascript": {
+                "id": "unminified-javascript",
+                "title": "Minify JavaScript",
+                "description": "Minifying JavaScript files can reduce payload sizes and script parse time. [Learn more](https://web.dev/unminified-javascript).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "details": {
+                    "headings": [],
+                    "type": "opportunity",
+                    "items": [],
+                    "overallSavingsBytes": 0,
+                    "overallSavingsMs": 0
+                },
+                "warnings": [],
+                "numericValue": 0
+            },
+            "redirects": {
+                "id": "redirects",
+                "title": "Avoid multiple page redirects",
+                "description": "Redirects introduce additional delays before the page can be loaded. [Learn more](https://web.dev/redirects).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "details": {
+                    "overallSavingsMs": 0,
+                    "headings": [],
+                    "items": [],
+                    "type": "opportunity"
+                },
+                "numericValue": 0
+            },
+            "user-timings": {
+                "id": "user-timings",
+                "title": "User Timing marks and measures",
+                "description": "Consider instrumenting your app with the User Timing API to measure your app's real-world performance during key user experiences. [Learn more](https://web.dev/user-timings).",
+                "score": null,
+                "scoreDisplayMode": "notApplicable",
+                "details": {
+                    "headings": [],
+                    "type": "table",
+                    "items": []
+                }
+            },
+            "first-meaningful-paint": {
+                "id": "first-meaningful-paint",
+                "title": "First Meaningful Paint",
+                "description": "First Meaningful Paint measures when the primary content of a page is visible. [Learn more](https://web.dev/first-meaningful-paint).",
+                "score": 0.71,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "1.3 s",
+                "numericValue": 1275
+            },
+            "resource-summary": {
+                "id": "resource-summary",
+                "title": "Keep request counts low and transfer sizes small",
+                "description": "To set budgets for the quantity and size of page resources, add a budget.json file. [Learn more](https://developers.google.com/web/tools/lighthouse/audits/budgets).",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "displayValue": "30 requests • 1,021 KB",
+                "details": {
+                    "type": "table",
+                    "items": [
+                        {
+                            "label": "Total",
+                            "size": 1045482,
+                            "requestCount": 30,
+                            "resourceType": "total"
+                        },
+                        {
+                            "label": "Image",
+                            "size": 417587,
+                            "requestCount": 10,
+                            "resourceType": "image"
+                        },
+                        {
+                            "requestCount": 9,
+                            "resourceType": "font",
+                            "label": "Font",
+                            "size": 303023
+                        },
+                        {
+                            "resourceType": "script",
+                            "label": "Script",
+                            "size": 206642,
+                            "requestCount": 7
+                        },
+                        {
+                            "requestCount": 3,
+                            "resourceType": "stylesheet",
+                            "label": "Stylesheet",
+                            "size": 97350
+                        },
+                        {
+                            "resourceType": "document",
+                            "label": "Document",
+                            "size": 20880,
+                            "requestCount": 1
+                        },
+                        {
+                            "resourceType": "media",
+                            "label": "Media",
+                            "size": 0,
+                            "requestCount": 0
+                        },
+                        {
+                            "resourceType": "other",
+                            "label": "Other",
+                            "size": 0,
+                            "requestCount": 0
+                        },
+                        {
+                            "requestCount": 13,
+                            "resourceType": "third-party",
+                            "label": "Third-party",
+                            "size": 111416
+                        }
+                    ],
+                    "headings": [
+                        {
+                            "key": "label",
+                            "itemType": "text",
+                            "text": "Resource Type"
+                        },
+                        {
+                            "key": "requestCount",
+                            "itemType": "numeric",
+                            "text": "Requests"
+                        },
+                        {
+                            "key": "size",
+                            "itemType": "bytes",
+                            "text": "Transfer Size"
+                        }
+                    ]
+                }
+            },
+            "efficient-animated-content": {
+                "id": "efficient-animated-content",
+                "title": "Use video formats for animated content",
+                "description": "Large GIFs are inefficient for delivering animated content. Consider using MPEG4/WebM videos for animations and PNG/WebP for static images instead of GIF to save network bytes. [Learn more](https://web.dev/efficient-animated-content)",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "details": {
+                    "type": "opportunity",
+                    "items": [],
+                    "overallSavingsBytes": 0,
+                    "overallSavingsMs": 0,
+                    "headings": []
+                },
+                "numericValue": 0
+            },
+            "final-screenshot": {
+                "id": "final-screenshot",
+                "title": "Final Screenshot",
+                "description": "The last screenshot captured of the pageload.",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "details": {
+                    "type": "screenshot",
+                    "timing": 3046,
+                    "timestamp": 4008501620188,
+                    "data": "data:image/jpeg;base64,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"
+                }
+            },
+            "metrics": {
+                "id": "metrics",
+                "title": "Metrics",
+                "description": "Collects all available metrics.",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "details": {
+                    "type": "debugdata",
+                    "items": [
+                        {
+                            "observedFirstMeaningfulPaintTs": 4008501549046,
+                            "observedDomContentLoaded": 2689,
+                            "observedNavigationStart": 0,
+                            "observedFirstVisualChangeTs": 4008500752723,
+                            "interactive": 1434,
+                            "observedFirstContentfulPaintTs": 4008500764803,
+                            "observedLoad": 5419,
+                            "observedLastVisualChangeTs": 4008501619723,
+                            "observedLargestContentfulPaint": 2833,
+                            "observedDomContentLoadedTs": 4008501262381,
+                            "observedSpeedIndex": 2556,
+                            "estimatedInputLatency": 13,
+                            "totalBlockingTime": 49,
+                            "observedFirstPaint": 2191,
+                            "observedLastVisualChange": 3046,
+                            "firstContentfulPaint": 818,
+                            "observedFirstPaintTs": 4008500764803,
+                            "speedIndex": 1981,
+                            "observedSpeedIndexTs": 4008501129708,
+                            "observedFirstContentfulPaint": 2191,
+                            "observedNavigationStartTs": 4008498573723,
+                            "observedLargestContentfulPaintTs": 4008501406548,
+                            "observedFirstVisualChange": 2179,
+                            "observedLoadTs": 4008503992863,
+                            "firstMeaningfulPaint": 1275,
+                            "observedFirstMeaningfulPaint": 2975,
+                            "observedTraceEnd": 6477,
+                            "observedTraceEndTs": 4008505050737,
+                            "firstCPUIdle": 1288
+                        },
+                        {
+                            "lcpInvalidated": false
+                        }
+                    ]
+                },
+                "numericValue": 1434
+            },
+            "time-to-first-byte": {
+                "id": "time-to-first-byte",
+                "title": "Reduce server response times (TTFB)",
+                "description": "Time To First Byte identifies the time at which your server sends a response. [Learn more](https://web.dev/time-to-first-byte).",
+                "score": 0,
+                "scoreDisplayMode": "binary",
+                "displayValue": "Root document took 1,490 ms",
+                "details": {
+                    "overallSavingsMs": 888.988,
+                    "headings": [],
+                    "type": "opportunity",
+                    "items": []
+                },
+                "numericValue": 1488.988
+            },
+            "render-blocking-resources": {
+                "id": "render-blocking-resources",
+                "title": "Eliminate render-blocking resources",
+                "description": "Resources are blocking the first paint of your page. Consider delivering critical JS/CSS inline and deferring all non-critical JS/styles. [Learn more](https://web.dev/render-blocking-resources).",
+                "score": 0.89,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "Potential savings of 140 ms",
+                "details": {
+                    "overallSavingsMs": 135,
+                    "headings": [
+                        {
+                            "key": "url",
+                            "valueType": "url",
+                            "label": "URL"
+                        },
+                        {
+                            "key": "totalBytes",
+                            "valueType": "bytes",
+                            "label": "Size"
+                        },
+                        {
+                            "label": "Potential Savings",
+                            "key": "wastedMs",
+                            "valueType": "timespanMs"
+                        }
+                    ],
+                    "type": "opportunity",
+                    "items": [
+                        {
+                            "wastedMs": 230,
+                            "url": "https://fonts.googleapis.com/css?family=Open+Sans%3A400%2Ci%2C600%2C700%2C300&display=fallback&ver=2.2.0",
+                            "totalBytes": 1476
+                        },
+                        {
+                            "wastedMs": 150,
+                            "url": "https://davinciclinic.co.uk/wp-content/cache/autoptimize/css/autoptimize_single_f31c3a86d13a0cd506af72612bcbd315.css?ver=2.2.2",
+                            "totalBytes": 3343
+                        },
+                        {
+                            "totalBytes": 34369,
+                            "wastedMs": 390,
+                            "url": "https://davinciclinic.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp"
+                        }
+                    ]
+                },
+                "numericValue": 135
+            },
+            "uses-optimized-images": {
+                "id": "uses-optimized-images",
+                "title": "Efficiently encode images",
+                "description": "Optimized images load faster and consume less cellular data. [Learn more](https://web.dev/uses-optimized-images).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "Potential savings of 7 KB",
+                "details": {
+                    "overallSavingsMs": 0,
+                    "headings": [
+                        {
+                            "key": "url",
+                            "valueType": "thumbnail"
+                        },
+                        {
+                            "valueType": "url",
+                            "label": "URL",
+                            "key": "url"
+                        },
+                        {
+                            "valueType": "bytes",
+                            "label": "Size",
+                            "key": "totalBytes"
+                        },
+                        {
+                            "label": "Potential Savings",
+                            "key": "wastedBytes",
+                            "valueType": "bytes"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2019/05/dental-implants-london.jpg",
+                            "fromProtocol": true,
+                            "isCrossOrigin": false,
+                            "totalBytes": 91423,
+                            "wastedBytes": 7142
+                        }
+                    ],
+                    "type": "opportunity",
+                    "overallSavingsBytes": 7142
+                },
+                "warnings": [],
+                "numericValue": 0
+            },
+            "uses-text-compression": {
+                "id": "uses-text-compression",
+                "title": "Enable text compression",
+                "description": "Text-based resources should be served with compression (gzip, deflate or brotli) to minimize total network bytes. [Learn more](https://web.dev/uses-text-compression).",
+                "score": 1,
+                "scoreDisplayMode": "numeric",
+                "details": {
+                    "type": "opportunity",
+                    "items": [],
+                    "overallSavingsBytes": 0,
+                    "overallSavingsMs": 0,
+                    "headings": []
+                },
+                "numericValue": 0
+            },
+            "network-requests": {
+                "id": "network-requests",
+                "title": "Network Requests",
+                "description": "Lists the network requests that were made during page load.",
+                "score": null,
+                "scoreDisplayMode": "informative",
+                "details": {
+                    "headings": [
+                        {
+                            "key": "url",
+                            "itemType": "url",
+                            "text": "URL"
+                        },
+                        {
+                            "key": "startTime",
+                            "itemType": "ms",
+                            "text": "Start Time",
+                            "granularity": 1
+                        },
+                        {
+                            "key": "endTime",
+                            "itemType": "ms",
+                            "text": "End Time",
+                            "granularity": 1
+                        },
+                        {
+                            "itemType": "bytes",
+                            "key": "transferSize",
+                            "text": "Transfer Size",
+                            "displayUnit": "kb",
+                            "granularity": 1
+                        },
+                        {
+                            "text": "Resource Size",
+                            "granularity": 1,
+                            "displayUnit": "kb",
+                            "key": "resourceSize",
+                            "itemType": "bytes"
+                        },
+                        {
+                            "key": "statusCode",
+                            "itemType": "text",
+                            "text": "Status Code"
+                        },
+                        {
+                            "itemType": "text",
+                            "key": "mimeType",
+                            "text": "MIME Type"
+                        },
+                        {
+                            "key": "resourceType",
+                            "itemType": "text",
+                            "text": "Resource Type"
+                        }
+                    ],
+                    "items": [
+                        {
+                            "startTime": 0,
+                            "transferSize": 20880,
+                            "url": "https://davinciclinic.co.uk/",
+                            "statusCode": 200,
+                            "resourceType": "Document",
+                            "mimeType": "text/html",
+                            "endTime": 1488.001000136137,
+                            "resourceSize": 169296
+                        },
+                        {
+                            "resourceType": "Stylesheet",
+                            "mimeType": "text/css",
+                            "endTime": 1963.002999778837,
+                            "resourceSize": 618728,
+                            "startTime": 1501.658999826759,
+                            "transferSize": 92531,
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-content/cache/autoptimize/css/autoptimize_33d3d0b890a26744eca054140c1bccc5.css"
+                        },
+                        {
+                            "resourceType": "Script",
+                            "mimeType": "application/javascript",
+                            "endTime": 1531.9940000772476,
+                            "resourceSize": 61314,
+                            "startTime": 1503.897000104189,
+                            "transferSize": 15105,
+                            "statusCode": 200,
+                            "url": "https://consent.cookiebot.com/uc.js"
+                        },
+                        {
+                            "startTime": 1504.2619998566806,
+                            "transferSize": 1476,
+                            "url": "https://fonts.googleapis.com/css?family=Open+Sans%3A400%2Ci%2C600%2C700%2C300&display=fallback&ver=2.2.0",
+                            "statusCode": 200,
+                            "resourceType": "Stylesheet",
+                            "mimeType": "text/css",
+                            "resourceSize": 12855,
+                            "endTime": 1514.5729999057949
+                        },
+                        {
+                            "resourceType": "Stylesheet",
+                            "mimeType": "text/css",
+                            "endTime": 1620.8669999614358,
+                            "resourceSize": 18826,
+                            "startTime": 1504.4609997421503,
+                            "transferSize": 3343,
+                            "url": "https://davinciclinic.co.uk/wp-content/cache/autoptimize/css/autoptimize_single_f31c3a86d13a0cd506af72612bcbd315.css?ver=2.2.2",
+                            "statusCode": 200
+                        },
+                        {
+                            "url": "https://www.google-analytics.com/analytics.js",
+                            "statusCode": 200,
+                            "resourceType": "Script",
+                            "mimeType": "text/javascript",
+                            "endTime": 1510.580999776721,
+                            "resourceSize": 44470,
+                            "startTime": 1505.990999750793,
+                            "transferSize": 18395
+                        },
+                        {
+                            "endTime": 4047.7060000412166,
+                            "resourceSize": 13866,
+                            "startTime": 1560.722999740392,
+                            "transferSize": 5015,
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-includes/js/wp-emoji-release.min.js?ver=5.3.2",
+                            "resourceType": "Script",
+                            "mimeType": "application/javascript"
+                        },
+                        {
+                            "resourceType": "Script",
+                            "mimeType": "application/javascript",
+                            "resourceSize": 96873,
+                            "endTime": 2006.6299997270107,
+                            "startTime": 1546.9069997780025,
+                            "transferSize": 34369,
+                            "url": "https://davinciclinic.co.uk/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp",
+                            "statusCode": 200
+                        },
+                        {
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/autoptimize/classes/external/js/lazysizes.min.js?ao_version=2.6.1",
+                            "statusCode": 200,
+                            "resourceType": "Script",
+                            "mimeType": "application/javascript",
+                            "resourceSize": 8876,
+                            "endTime": 2007.31399981305,
+                            "startTime": 1561.3059997558594,
+                            "transferSize": 4266
+                        },
+                        {
+                            "resourceType": "Script",
+                            "mimeType": "application/javascript",
+                            "resourceSize": 522358,
+                            "endTime": 2367.5989997573197,
+                            "startTime": 2008.4759998135269,
+                            "transferSize": 129492,
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-content/cache/autoptimize/js/autoptimize_7c23bd7f5f9548a23ad29b8307590c78.js"
+                        },
+                        {
+                            "transferSize": 553,
+                            "url": "https://www.google-analytics.com/r/collect?v=1&_v=j79&a=1836191945&t=pageview&_s=1&dl=https%3A%2F%2Fdavinciclinic.co.uk%2F&ul=en-us&de=UTF-8&dt=Best%20Dentist%20in%20London%20%7C%20DaVinci%20Clinic&sd=24-bit&sr=800x600&vp=1350x940&je=0&_u=IEBAAEAB~&jid=131871826&gjid=1386970223&cid=1263314572.1579106323&tid=UA-139887147-1&_gid=1127034820.1579106323&_r=1&z=320783215",
+                            "statusCode": 200,
+                            "resourceType": "Image",
+                            "mimeType": "image/gif",
+                            "endTime": 2037.868000101298,
+                            "resourceSize": 35,
+                            "startTime": 2033.55300007388
+                        },
+                        {
+                            "transferSize": 0,
+                            "statusCode": 200,
+                            "url": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20200%2065%22%",
+                            "resourceType": "Image",
+                            "mimeType": "image/svg+xml",
+                            "endTime": 2040.2299999259412,
+                            "resourceSize": 67,
+                            "startTime": 2040.1779999956489
+                        },
+                        {
+                            "resourceType": "Image",
+                            "mimeType": "image/svg+xml",
+                            "resourceSize": 68,
+                            "endTime": 2041.939000133425,
+                            "startTime": 2041.9020000845194,
+                            "transferSize": 0,
+                            "url": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20778%20499%22",
+                            "statusCode": 200
+                        },
+                        {
+                            "statusCode": 200,
+                            "url": "data:image/svg+xml,%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20viewBox=%220%200%20%20%22%3E%3C",
+                            "resourceType": "Image",
+                            "mimeType": "image/svg+xml",
+                            "resourceSize": 62,
+                            "endTime": 2043.3809999376535,
+                            "startTime": 2043.341000098735,
+                            "transferSize": 0
+                        },
+                        {
+                            "resourceType": "Image",
+                            "mimeType": "image/jpeg",
+                            "endTime": 2516.0409999080002,
+                            "resourceSize": 100026,
+                            "startTime": 2060.192999895662,
+                            "transferSize": 100320,
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2019/04/homepage.jpg"
+                        },
+                        {
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2019/04/about-us.jpg",
+                            "resourceType": "Image",
+                            "mimeType": "image/jpeg",
+                            "endTime": 3863.882000092417,
+                            "resourceSize": 60820,
+                            "startTime": 2067.9440000094473,
+                            "transferSize": 61112
+                        },
+                        {
+                            "resourceType": "Image",
+                            "mimeType": "image/jpeg",
+                            "resourceSize": 24868,
+                            "endTime": 5413.795999716967,
+                            "startTime": 2069.217999931425,
+                            "transferSize": 25160,
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2018/12/bg-img-09-free-img.jpg",
+                            "statusCode": 200
+                        },
+                        {
+                            "mimeType": "image/jpeg",
+                            "resourceSize": 91423,
+                            "endTime": 2526.488999836147,
+                            "startTime": 2072.5309997797012,
+                            "transferSize": 91716,
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2019/05/dental-implants-london.jpg",
+                            "resourceType": "Image"
+                        },
+                        {
+                            "startTime": 2073.894999921322,
+                            "transferSize": 131815,
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2018/07/dental-screening.jpg",
+                            "resourceType": "Image",
+                            "mimeType": "image/jpeg",
+                            "endTime": 2534.1989998705685,
+                            "resourceSize": 131521
+                        },
+                        {
+                            "resourceType": "Font",
+                            "mimeType": "font/woff2",
+                            "endTime": 2084.123000036925,
+                            "resourceSize": 14880,
+                            "startTime": 2080.6999998167157,
+                            "transferSize": 15452,
+                            "statusCode": 200,
+                            "url": "https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UNirkOUuhp.woff2"
+                        },
+                        {
+                            "resourceType": "Font",
+                            "mimeType": "font/woff",
+                            "resourceSize": 3304,
+                            "endTime": 2197.2429999150336,
+                            "startTime": 2080.939999781549,
+                            "transferSize": 3593,
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-content/themes/astra/assets/fonts/astra.woff"
+                        },
+                        {
+                            "statusCode": 200,
+                            "url": "https://fonts.gstatic.com/s/opensans/v17/mem8YaGs126MiZpBA-UFVZ0b.woff2",
+                            "resourceType": "Font",
+                            "mimeType": "font/woff2",
+                            "endTime": 2086.602999828756,
+                            "resourceSize": 14380,
+                            "startTime": 2082.6789997518063,
+                            "transferSize": 14951
+                        },
+                        {
+                            "resourceType": "Font",
+                            "mimeType": "font/woff2",
+                            "resourceSize": 15056,
+                            "endTime": 2088.450999930501,
+                            "startTime": 2084.8559997975826,
+                            "transferSize": 15628,
+                            "url": "https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN7rgOUuhp.woff2",
+                            "statusCode": 200
+                        },
+                        {
+                            "resourceType": "Font",
+                            "mimeType": "font/woff2",
+                            "resourceSize": 75440,
+                            "endTime": 2864.558999892324,
+                            "startTime": 2085.3979997336864,
+                            "transferSize": 75733,
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2"
+                        },
+                        {
+                            "resourceType": "Font",
+                            "mimeType": "font/woff2",
+                            "resourceSize": 14932,
+                            "endTime": 2092.238999903202,
+                            "startTime": 2087.816999759525,
+                            "transferSize": 15504,
+                            "url": "https://fonts.gstatic.com/s/opensans/v17/mem5YaGs126MiZpBA-UN_r8OUuhp.woff2",
+                            "statusCode": 200
+                        },
+                        {
+                            "resourceType": "Font",
+                            "mimeType": "font/woff2",
+                            "endTime": 2095.9830000065267,
+                            "resourceSize": 13780,
+                            "startTime": 2091.186000034213,
+                            "transferSize": 14352,
+                            "statusCode": 200,
+                            "url": "https://fonts.gstatic.com/s/opensans/v17/mem6YaGs126MiZpBA-UFUK0Zdc0.woff2"
+                        },
+                        {
+                            "transferSize": 73009,
+                            "statusCode": 200,
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.5.0",
+                            "resourceType": "Font",
+                            "mimeType": "font/woff2",
+                            "resourceSize": 72716,
+                            "endTime": 2438.205999787897,
+                            "startTime": 2091.537999920547
+                        },
+                        {
+                            "resourceType": "Font",
+                            "mimeType": "font/woff2",
+                            "endTime": 2439.4780001603067,
+                            "resourceSize": 74508,
+                            "startTime": 2093.291999772191,
+                            "transferSize": 74801,
+                            "url": "https://davinciclinic.co.uk/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+                            "statusCode": 200
+                        },
+                        {
+                            "resourceType": "Script",
+                            "endTime": 2229.3819999322295,
+                            "resourceSize": 0,
+                            "startTime": 2154.062000103295,
+                            "transferSize": 0,
+                            "statusCode": -1,
+                            "url": "https://embed.tawk.to/5ca3a96a1de11b6e3b068387/default"
+                        },
+                        {
+                            "resourceType": "Image",
+                            "mimeType": "image/png",
+                            "resourceSize": 6621,
+                            "endTime": 2693.8000000081956,
+                            "startTime": 2228.831000160426,
+                            "transferSize": 6911,
+                            "url": "https://davinciclinic.co.uk/wp-content/uploads/2019/12/daVinci_framed-200x65.png",
+                            "statusCode": 200
+                        }
+                    ],
+                    "type": "table"
+                },
+                "numericValue": 30
+            },
+            "uses-long-cache-ttl": {
+                "id": "uses-long-cache-ttl",
+                "title": "Uses efficient cache policy on static assets",
+                "description": "A long cache lifetime can speed up repeat visits to your page. [Learn more](https://web.dev/uses-long-cache-ttl).",
+                "score": 0.91,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "2 resources found",
+                "details": {
+                    "summary": {
+                        "wastedBytes": 27139
+                    },
+                    "headings": [
+                        {
+                            "key": "url",
+                            "itemType": "url",
+                            "text": "URL"
+                        },
+                        {
+                            "text": "Cache TTL",
+                            "displayUnit": "duration",
+                            "itemType": "ms",
+                            "key": "cacheLifetimeMs"
+                        },
+                        {
+                            "text": "Size",
+                            "displayUnit": "kb",
+                            "granularity": 1,
+                            "key": "totalBytes",
+                            "itemType": "bytes"
+                        }
+                    ],
+                    "type": "table",
+                    "items": [
+                        {
+                            "cacheHitProbability": 0.11666666666666667,
+                            "url": "https://consent.cookiebot.com/uc.js",
+                            "wastedBytes": 13342.75,
+                            "debugData": {
+                                "max-age": 1200,
+                                "type": "debugdata",
+                                "public": true
+                            },
+                            "cacheLifetimeMs": 1200000,
+                            "totalBytes": 15105
+                        },
+                        {
+                            "totalBytes": 18395,
+                            "cacheHitProbability": 0.25,
+                            "url": "https://www.google-analytics.com/analytics.js",
+                            "wastedBytes": 13796.25,
+                            "debugData": {
+                                "type": "debugdata",
+                                "max-age": 7200,
+                                "public": true
+                            },
+                            "cacheLifetimeMs": 7200000
+                        }
+                    ]
+                },
+                "numericValue": 27139
+            },
+            "max-potential-fid": {
+                "id": "max-potential-fid",
+                "title": "Max Potential First Input Delay",
+                "description": "The maximum potential First Input Delay that your users could experience is the duration, in milliseconds, of the longest task. [Learn more](https://developers.google.com/web/updates/2018/05/first-input-delay).",
+                "score": 0.85,
+                "scoreDisplayMode": "numeric",
+                "displayValue": "150 ms",
+                "numericValue": 148
+            }
+        },
+        "categories": {
+            "performance": {
+                "id": "performance",
+                "title": "Performance",
+                "score": 0.87,
+                "auditRefs": [
+                    {
+                        "id": "first-contentful-paint",
+                        "weight": 3,
+                        "group": "metrics"
+                    },
+                    {
+                        "id": "first-meaningful-paint",
+                        "weight": 1,
+                        "group": "metrics"
+                    },
+                    {
+                        "id": "speed-index",
+                        "weight": 4,
+                        "group": "metrics"
+                    },
+                    {
+                        "id": "interactive",
+                        "weight": 5,
+                        "group": "metrics"
+                    },
+                    {
+                        "id": "first-cpu-idle",
+                        "weight": 2,
+                        "group": "metrics"
+                    },
+                    {
+                        "id": "max-potential-fid",
+                        "weight": 0,
+                        "group": "metrics"
+                    },
+                    {
+                        "id": "estimated-input-latency",
+                        "weight": 0
+                    },
+                    {
+                        "id": "total-blocking-time",
+                        "weight": 0
+                    },
+                    {
+                        "id": "render-blocking-resources",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "uses-responsive-images",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "offscreen-images",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "unminified-css",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "unminified-javascript",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "unused-css-rules",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "uses-optimized-images",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "uses-webp-images",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "uses-text-compression",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "uses-rel-preconnect",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "time-to-first-byte",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "redirects",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "uses-rel-preload",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "efficient-animated-content",
+                        "weight": 0,
+                        "group": "load-opportunities"
+                    },
+                    {
+                        "id": "total-byte-weight",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "uses-long-cache-ttl",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "dom-size",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "critical-request-chains",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "user-timings",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "bootup-time",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "mainthread-work-breakdown",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "font-display",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "performance-budget",
+                        "weight": 0,
+                        "group": "budgets"
+                    },
+                    {
+                        "id": "resource-summary",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "third-party-summary",
+                        "weight": 0,
+                        "group": "diagnostics"
+                    },
+                    {
+                        "id": "network-requests",
+                        "weight": 0
+                    },
+                    {
+                        "id": "network-rtt",
+                        "weight": 0
+                    },
+                    {
+                        "id": "network-server-latency",
+                        "weight": 0
+                    },
+                    {
+                        "id": "main-thread-tasks",
+                        "weight": 0
+                    },
+                    {
+                        "id": "diagnostics",
+                        "weight": 0
+                    },
+                    {
+                        "id": "metrics",
+                        "weight": 0
+                    },
+                    {
+                        "id": "screenshot-thumbnails",
+                        "weight": 0
+                    },
+                    {
+                        "id": "final-screenshot",
+                        "weight": 0
+                    }
+                ]
+            }
+        },
+        "categoryGroups": {
+            "pwa-installable": {
+                "title": "Installable"
+            },
+            "seo-mobile": {
+                "title": "Mobile Friendly",
+                "description": "Make sure your pages are mobile friendly so users don’t have to pinch or zoom in order to read the content pages. [Learn more](https://developers.google.com/search/mobile-sites/)."
+            },
+            "diagnostics": {
+                "title": "Diagnostics",
+                "description": "More information about the performance of your application. These numbers don't [directly affect](https://github.com/GoogleChrome/lighthouse/blob/d2ec9ffbb21de9ad1a0f86ed24575eda32c796f0/docs/scoring.md#how-are-the-scores-weighted) the Performance score."
+            },
+            "a11y-best-practices": {
+                "title": "Best practices",
+                "description": "These items highlight common accessibility best practices."
+            },
+            "seo-crawl": {
+                "title": "Crawling and Indexing",
+                "description": "To appear in search results, crawlers need access to your app."
+            },
+            "a11y-color-contrast": {
+                "title": "Contrast",
+                "description": "These are opportunities to improve the legibility of your content."
+            },
+            "seo-content": {
+                "title": "Content Best Practices",
+                "description": "Format your HTML in a way that enables crawlers to better understand your app’s content."
+            },
+            "pwa-optimized": {
+                "title": "PWA Optimized"
+            },
+            "a11y-navigation": {
+                "title": "Navigation",
+                "description": "These are opportunities to improve keyboard navigation in your application."
+            },
+            "pwa-fast-reliable": {
+                "title": "Fast and reliable"
+            },
+            "a11y-aria": {
+                "title": "ARIA",
+                "description": "These are opportunities to improve the usage of ARIA in your application which may enhance the experience for users of assistive technology, like a screen reader."
+            },
+            "a11y-audio-video": {
+                "title": "Audio and video",
+                "description": "These are opportunities to provide alternative content for audio and video. This may improve the experience for users with hearing or vision impairments."
+            },
+            "a11y-language": {
+                "title": "Internationalization and localization",
+                "description": "These are opportunities to improve the interpretation of your content by users in different locales."
+            },
+            "a11y-tables-lists": {
+                "title": "Tables and lists",
+                "description": "These are opportunities to to improve the experience of reading tabular or list data using assistive technology, like a screen reader."
+            },
+            "a11y-names-labels": {
+                "title": "Names and labels",
+                "description": "These are opportunities to improve the semantics of the controls in your application. This may enhance the experience for users of assistive technology, like a screen reader."
+            },
+            "budgets": {
+                "title": "Budgets",
+                "description": "Performance budgets set standards for the performance of your site."
+            },
+            "load-opportunities": {
+                "title": "Opportunities",
+                "description": "These suggestions can help your page load faster. They don't [directly affect](https://github.com/GoogleChrome/lighthouse/blob/d2ec9ffbb21de9ad1a0f86ed24575eda32c796f0/docs/scoring.md#how-are-the-scores-weighted) the Performance score."
+            },
+            "metrics": {
+                "title": "Metrics"
+            }
+        },
+        "timing": {
+            "total": 13101.66
+        },
+        "i18n": {
+            "rendererFormattedStrings": {
+                "varianceDisclaimer": "Values are estimated and may vary. The performance score is [based only on these metrics](https://github.com/GoogleChrome/lighthouse/blob/d2ec9ffbb21de9ad1a0f86ed24575eda32c796f0/docs/scoring.md#how-are-the-scores-weighted).",
+                "opportunityResourceColumnLabel": "Opportunity",
+                "opportunitySavingsColumnLabel": "Estimated Savings",
+                "errorMissingAuditInfo": "Report error: no audit information",
+                "errorLabel": "Error!",
+                "warningHeader": "Warnings: ",
+                "auditGroupExpandTooltip": "Show audits",
+                "passedAuditsGroupTitle": "Passed audits",
+                "notApplicableAuditsGroupTitle": "Not applicable",
+                "manualAuditsGroupTitle": "Additional items to manually check",
+                "toplevelWarningsMessage": "There were issues affecting this run of Lighthouse:",
+                "crcLongestDurationLabel": "Maximum critical path latency:",
+                "crcInitialNavigation": "Initial Navigation",
+                "lsPerformanceCategoryDescription": "[Lighthouse](https://developers.google.com/web/tools/lighthouse/) analysis of the current page on an emulated mobile network. Values are estimated and may vary.",
+                "labDataTitle": "Lab Data"
+            }
+        },
+        "stackPacks": [
+            {
+                "id": "wordpress",
+                "title": "WordPress",
+                "iconDataURL": "data:image/svg+xml,%3Csvg viewBox='0 0 122.5 122.5' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%232f3439'%3E%3Cpath d='M8.7 61.3c0 20.8 12.1 38.7 29.6 47.3l-25-68.7c-3 6.5-4.6 13.7-4.6 21.4zM96.7 58.6c0-6.5-2.3-11-4.3-14.5-2.7-4.3-5.2-8-5.2-12.3 0-4.8 3.7-9.3 8.9-9.3h.7a52.4 52.4 0 0 0-79.4 9.9h3.3c5.5 0 14-.6 14-.6 2.9-.2 3.2 4 .4 4.3 0 0-2.9.4-6 .5l19.1 57L59.7 59l-8.2-22.5c-2.8-.1-5.5-.5-5.5-.5-2.8-.1-2.5-4.5.3-4.3 0 0 8.7.7 13.9.7 5.5 0 14-.7 14-.7 2.8-.2 3.2 4 .3 4.3 0 0-2.8.4-6 .5l19 56.5 5.2-17.5c2.3-7.3 4-12.5 4-17z'/%3E%3Cpath d='M62.2 65.9l-15.8 45.8a52.6 52.6 0 0 0 32.3-.9l-.4-.7zM107.4 36a49.6 49.6 0 0 1-3.6 24.2l-16.1 46.5A52.5 52.5 0 0 0 107.4 36z'/%3E%3Cpath d='M61.3 0a61.3 61.3 0 1 0 .1 122.7A61.3 61.3 0 0 0 61.3 0zm0 119.7a58.5 58.5 0 1 1 .1-117 58.5 58.5 0 0 1-.1 117z'/%3E%3C/g%3E%3C/svg%3E",
+                "descriptions": {
+                    "unused-javascript": "Consider reducing, or switching, the number of [WordPress plugins](https://wordpress.org/plugins/) loading unused JavaScript in your page. To identify plugins that are adding extraneous JS, try running [code coverage](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage) in Chrome DevTools. You can identify the theme/plugin responsible from the URL of the script. Look out for plugins that have many scripts in the list which have a lot of red in code coverage. A plugin should only enqueue a script if it is actually used on the page.",
+                    "unminified-javascript": "A number of [WordPress plugins](https://wordpress.org/plugins/search/minify+javascript/) can speed up your site by concatenating, minifying, and compressing your scripts. You may also want to use a build process to do this minification up front if possible.",
+                    "unminified-css": "A number of [WordPress plugins](https://wordpress.org/plugins/search/minify+css/) can speed up your site by concatenating, minifying, and compressing your styles. You may also want to use a build process to do this minification up-front if possible.",
+                    "offscreen-images": "Install a [lazy-load WordPress plugin](https://wordpress.org/plugins/search/lazy+load/) that provides the ability to defer any offscreen images, or switch to a theme that provides that functionality. Also consider using [the AMP plugin](https://wordpress.org/plugins/amp/).",
+                    "uses-responsive-images": "Upload images directly through the [media library](https://codex.wordpress.org/Media_Library_Screen) to ensure that the required image sizes are available, and then insert them from the media library or use the image widget to ensure the optimal image sizes are used (including those for the responsive breakpoints). Avoid using `Full Size` images unless the dimensions are adequate for their usage. [Learn More](https://codex.wordpress.org/Inserting_Images_into_Posts_and_Pages#Image_Size).",
+                    "efficient-animated-content": "Consider uploading your GIF to a service which will make it available to embed as an HTML5 video.",
+                    "unused-css-rules": "Consider reducing, or switching, the number of [WordPress plugins](https://wordpress.org/plugins/) loading unused CSS in your page. To identify plugins that are adding extraneous CSS, try running [code coverage](https://developers.google.com/web/updates/2017/04/devtools-release-notes#coverage) in Chrome DevTools. You can identify the theme/plugin responsible from the URL of the stylesheet. Look out for plugins that have many stylesheets in the list which have a lot of red in code coverage. A plugin should only enqueue a stylesheet if it is actually used on the page.",
+                    "time-to-first-byte": "Themes, plugins, and server specifications all contribute to server response time. Consider finding a more optimized theme, carefully selecting an optimization plugin, and/or upgrading your server.",
+                    "total-byte-weight": "Consider showing excerpts in your post lists (e.g. via the more tag), reducing the number of posts shown on a given page, breaking your long posts into multiple pages, or using a plugin to lazy-load comments.",
+                    "render-blocking-resources": "There are a number of WordPress plugins that can help you [inline critical assets](https://wordpress.org/plugins/search/critical+css/) or [defer less important resources](https://wordpress.org/plugins/search/defer+css+javascript/). Beware that optimizations provided by these plugins may break features of your theme or plugins, so you will likely need to make code changes.",
+                    "uses-text-compression": "You can enable text compression in your web server configuration.",
+                    "uses-optimized-images": "Consider using an [image optimization WordPress plugin](https://wordpress.org/plugins/search/optimize+images/) that compresses your images while retaining quality.",
+                    "uses-webp-images": "Consider using a [plugin](https://wordpress.org/plugins/search/convert+webp/) or service that will automatically convert your uploaded images to the optimal formats.",
+                    "uses-long-cache-ttl": "Read about [Browser Caching in WordPress](https://codex.wordpress.org/WordPress_Optimization#Browser_Caching)."
+                }
+            }
+        ]
+    },
+    "analysisUTCTimestamp": "2020-01-15T16:38:41.204Z"
+}
